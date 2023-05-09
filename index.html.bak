@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="Generator" content="EditPlus®">
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<title>青岛华凌科技有限公司</title>
+<link rel="stylesheet" href="css/header.css">
+<script type="text/javascript" src="js/jquery-2.1.0.min.js"></script>
+<script type="text/javascript" src="js/jquery.SuperSlide.2.1.js"></script>
+</head>
+<body>
+<div class="header_top">
+	<div class="container">
+		<p class="hlkj_p">欢迎您来到青岛华凌科技有限公司！</p>
+		<div class="lxdh_div">
+			<span>联系电话：</span>
+			<h3>15712773653</h3>
+		</div>
+	</div>
+</div>
+<div class="header">
+	<img class="logo_img" src="images/logon.png" alt="">
+	<div class="nav_div">
+		<div class="item_div index_item_div">
+			<a class="active_a" href="">首页</a>
+		</div>
+		<div class="item_div sys_fun_item_div">
+			<a href="">Batch系统功能</a>
+		</div>
+		<div class="item_div contact_us_item_div">
+			<a href="">联系我们</a>
+		</div>
+	</div>
+</div>
+
+<!--banner-->
+<div class="banner">
+    <div id="slideBox" class="slideBox">
+		<div class="bd">
+			<ul>
+             
+				<li>
+					<a href="" style=" background:url(images/201712161043449020.jpg) no-repeat center;"></a>
+				</li>
+                    
+				<li>
+					<a href="" style=" background:url(images/201712161044457795.jpg) no-repeat center;"></a>
+				</li>
+                    
+				<li>
+					<a href="" style=" background:url(images/201712161044078374.jpg) no-repeat center;"></a>
+				</li>
+                    
+			
+			</ul>
+		</div>
+		<div class="hd">
+			<ul> 
+				<li></li>
+				<li></li>
+				<li></li> 
+            </ul>
+		</div>
+	</div>
+</div>
+<script>
+//banner
+jQuery(".banner .slideBox").slide({mainCell:".bd ul",autoPlay:true});
+</script>
+</body>
+</html>
