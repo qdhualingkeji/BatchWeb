@@ -1,0 +1,48 @@
+.comp_intr_div{
+	width:1200px;height:167px;margin:0 auto;padding:1px;
+}
+.comp_intr_div .title_h3,.honor_div .title_h3{
+	color: #333;font-size: 35px;font-weight: bold;height: 40px;line-height: 40px;margin-left: 15px;
+}
+.comp_intr_div .content_p{
+	margin: 25px 0 0;
+	line-height: 28px;
+	color: #666;
+	font-size: 14px;
+}
+
+.honor_div{
+	width:1200px;
+	height: 500px;
+	margin: 20px auto;
+	padding: 1px;
+}
+.zs_list_div{
+	width:890px;
+	height: 345px;
+	background:#0f0;
+	float:right;
+}
+.zs_list_div .item_div{
+	width:265px;
+	height:340px;
+	line-height:340px;
+	text-align:center;
+	background-color:#F2F2F2;
+	border:#0F6FC6 solid 2px;
+}
+.zs_list_div .item2_div{
+	margin-top:-344px;
+	margin-left:310px;
+}
+.zs_list_div .item3_div{
+	margin-top:-344px;
+	margin-left:620px;
+}
+.zs_list_div .item_div img{
+	margin-top:15px;
+}
+
+.honor_div .jb2_img{
+	margin-left: -398px;
+}
