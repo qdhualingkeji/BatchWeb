@@ -126,19 +126,20 @@
 	margin-left:20px;
 }
 .batch_intr_div .area2_div .rect2_div{
-	width:563px;
+	width:778px;
 	height: 210px;
 	margin-top:-214px;
 	margin-left:200px;
 	border:#000 solid 2px;
 }
 .batch_intr_div .area2_div .rect2_div .scdd_border_div{
-	width:115px;
-	height:34px;
+	width:113px;
+	height:35px;
 	margin-top:5px;
 	margin-left:18px;
 	border:#000 solid 1px;
 	position:absolute;
+	z-index: 1;
 }
 .batch_intr_div .area2_div .rect2_div .scdd_span{
 	margin-top:8px;
@@ -147,24 +148,96 @@
 .batch_intr_div .area2_div .rect2_div .scdd_img{
 	margin-top:5px;
 	margin-left:20px;
+	position: absolute;
 }
 .batch_intr_div .area2_div .rect2_div .ott_img{
 	margin-top:20px;
-	margin-left:-5px;
+	margin-left:136px;
 	position:absolute;
 }
 .batch_intr_div .area2_div .rect2_div .jhpc_border_div{
 	width:115px;
 	height:34px;
-	margin-top:-53px;
+	margin-top:7px;
 	margin-left:275px;
 	border:#000 solid 1px;
 	position:absolute;
+	z-index: 1;
 }
 .batch_intr_div .area2_div .rect2_div .jhpc_img{
-	margin-top:5px;
-	margin-left:128px;
+	margin-top:7px;
+	margin-left:277px;
+	position: absolute;
 }
-.utd_img{
+.batch_intr_div .area2_div .rect2_div .utd_img{
+	margin-top: 53px;
 	margin-left: -25px;
+}
+.batch_intr_div .area2_div .rect2_div .pcfx_border_div{
+	width:115px;
+	height:34px;
+	margin-top:-110px;
+	margin-left:430px;
+	border:#000 solid 1px;
+	position:absolute;
+	z-index: 1;
+}
+.batch_intr_div .area2_div .rect2_div .pcfx_span{
+	margin-top:8px;
+	margin-left:23px;
+}
+.batch_intr_div .area2_div .rect2_div .pcfx_img{
+	margin-top: 131px;
+	margin-left: 91px;
+	position: absolute;
+}
+.batch_intr_div .area2_div .rect2_div .etn_img{
+	margin-top:144px;
+	margin-left:205px;
+	position:absolute;
+}
+.batch_intr_div .area2_div .rect2_div .sctj_border_div{
+	width:115px;
+	height:34px;
+	margin-top:-110px;
+	margin-left:643px;
+	border:#000 solid 1px;
+	position:absolute;
+	z-index: 1;
+}
+.batch_intr_div .area2_div .rect2_div .sctj_span{
+	margin-top:8px;
+	margin-left:23px;
+}
+.batch_intr_div .area2_div .rect2_div .sctj_img{
+	margin-top: 131px;
+	margin-left: 304px;
+	position: absolute;
+}
+.batch_intr_div .area2_div .rect3_div{
+	width:163px;
+	height: 310px;
+	margin-top: 15px;
+	border:#000 solid 2px;
+}
+.batch_intr_div .area2_div .rect3_div .cjwljs_border_div{
+	width:152px;
+	height:34px;
+	margin-top: 15px;
+	margin-left:98px;
+	border:#000 solid 1px;
+	position:absolute;
+	z-index: 1;
+}
+.batch_intr_div .area2_div .rect3_div .cjwljs_span{
+	margin-top:8px;
+	margin-left:20px;
+}
+.batch_intr_div .area2_div .rect3_div .ylck_img{
+	margin-top:88px;
+}
+.batch_intr_div .area2_div .rect3_div .ttft_img{
+	margin-top: -291px;
+	margin-left: 98px;
+	position: absolute;
 }
