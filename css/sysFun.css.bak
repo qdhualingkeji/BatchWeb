@@ -1,0 +1,27 @@
+.step1_div{
+	width:1200px;
+	margin: 20px auto;
+	padding: 1px;
+}
+.step1_div .title_h3{
+	height: 40px;
+	line-height: 40px;
+	margin-left: 15px;
+	color: #333;
+	font-size: 30px;
+	font-weight: bold;
+}
+.step1_div .left_img{
+	width: 800px;
+	height:450px;
+	margin-top: 18px;
+}
+.step1_div .pointer_img{
+	margin-left: 20px;
+	margin-top: 214px;
+	position: absolute;
+}
+.step1_div .right_img{
+	margin-top: -68px;
+	float: right;
+}

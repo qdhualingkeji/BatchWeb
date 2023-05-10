@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="css/header.css">
 <link rel="stylesheet" href="css/slide.css">
 <link rel="stylesheet" href="css/index.css">
+<link rel="stylesheet" href="css/foot.css">
 <script type="text/javascript" src="js/jquery-2.1.0.min.js"></script>
 <script type="text/javascript" src="js/jquery.SuperSlide.2.1.js"></script>
 </head>
@@ -27,10 +28,10 @@
 	<img class="logo_img" src="images/logon.png" alt="">
 	<div class="nav_div">
 		<div class="item_div index_item_div">
-			<a class="active_a" href="">首页</a>
+			<a class="active_a" href="index.html">首页</a>
 		</div>
 		<div class="item_div sys_fun_item_div">
-			<a href="">Batch系统功能</a>
+			<a href="sysFun">Batch系统功能</a>
 		</div>
 		<div class="item_div contact_us_item_div">
 			<a href="">联系我们</a>
