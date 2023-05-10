@@ -147,8 +147,26 @@
 				<span class="text_span cjwljs_span">3.车间物料接收</span>
 			</div>
 			<img class="ylck_img" src="images/202305101536.png"/>
-			<img class="ttft_img" src="images/202305101536.png"/>
+			<span class="ylck_span">原料仓库</span>
+			<img class="ttft_img" src="images/202305101540.png"/>
 		</div>
+		<div class="rect4_div">
+			<div class="wljl_border_div">
+				<span class="text_span wljl_span">4.物料计量</span>
+			</div>
+			<div class="pckz_border_div">
+				<span class="text_span pckz_span">5.批次控制</span>
+			</div>
+			<div class="bzx_border_div">
+				<span class="text_span bzx_span">6.包装线</span>
+			</div>
+			<img src="images/202305101557.png"/>
+			<span class="czmo_span">称重模块</span>
+			<span class="scsb_span">生产设备</span>
+		</div>
+		<div class="rect5_div">
+		</div>
+		<img class="right_img" src="images/202305101635.png"/>
 	</div>
 <script>
 //banner

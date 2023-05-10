@@ -2,7 +2,6 @@
 	width:1200px;height:167px;margin:0 auto;padding:1px;
 }
 .comp_intr_div .title_h3,
-.honor_div .title_h3,
 .batch_intr_div .title_h3{
 	color: #333;font-size: 35px;font-weight: bold;height: 40px;line-height: 40px;margin-left: 15px;
 }
@@ -126,7 +125,7 @@
 	margin-left:20px;
 }
 .batch_intr_div .area2_div .rect2_div{
-	width:778px;
+	width:860px;
 	height: 210px;
 	margin-top:-214px;
 	margin-left:200px;
@@ -177,7 +176,7 @@
 	width:115px;
 	height:34px;
 	margin-top:-110px;
-	margin-left:430px;
+	margin-left:480px;
 	border:#000 solid 1px;
 	position:absolute;
 	z-index: 1;
@@ -188,19 +187,19 @@
 }
 .batch_intr_div .area2_div .rect2_div .pcfx_img{
 	margin-top: 131px;
-	margin-left: 91px;
+	margin-left: 141px;
 	position: absolute;
 }
 .batch_intr_div .area2_div .rect2_div .etn_img{
 	margin-top:144px;
-	margin-left:205px;
+	margin-left:255px;
 	position:absolute;
 }
 .batch_intr_div .area2_div .rect2_div .sctj_border_div{
 	width:115px;
 	height:34px;
 	margin-top:-110px;
-	margin-left:643px;
+	margin-left:693px;
 	border:#000 solid 1px;
 	position:absolute;
 	z-index: 1;
@@ -211,12 +210,12 @@
 }
 .batch_intr_div .area2_div .rect2_div .sctj_img{
 	margin-top: 131px;
-	margin-left: 304px;
+	margin-left: 354px;
 	position: absolute;
 }
 .batch_intr_div .area2_div .rect3_div{
 	width:163px;
-	height: 310px;
+	height: 343px;
 	margin-top: 15px;
 	border:#000 solid 2px;
 }
@@ -234,10 +233,84 @@
 	margin-left:20px;
 }
 .batch_intr_div .area2_div .rect3_div .ylck_img{
-	margin-top:88px;
+	margin-top:101px;
+}
+.batch_intr_div .area2_div .rect3_div .ylck_span{
+	margin-left: 52px;
+	position:absolute;
 }
 .batch_intr_div .area2_div .rect3_div .ttft_img{
-	margin-top: -291px;
+	margin-top: -303px;
 	margin-left: 98px;
+	position: absolute;
+}
+.batch_intr_div .area2_div .rect4_div{
+	width:650px;
+	height: 343px;
+	margin-top: -347px;
+	margin-left: 200px;
+	border:#000 solid 2px;
+}
+.batch_intr_div .area2_div .rect4_div .wljl_border_div{
+	width:113px;
+	height:34px;
+	margin-top: 68px;
+	margin-left:64px;
+	border:#000 solid 1px;
+	position:absolute;
+	z-index: 1;
+}
+.batch_intr_div .area2_div .rect4_div .wljl_span{
+	margin-top:8px;
+	margin-left:20px;
+}
+.batch_intr_div .area2_div .rect4_div .pckz_border_div{
+	width:117px;
+	height:34px;
+	margin-top: 68px;
+	margin-left:278px;
+	border:#000 solid 1px;
+	position:absolute;
+	z-index: 1;
+}
+.batch_intr_div .area2_div .rect4_div .pckz_span{
+	margin-top:8px;
+	margin-left:20px;
+}
+.batch_intr_div .area2_div .rect4_div .bzx_border_div{
+	width:105px;
+	height:34px;
+	margin-top: 68px;
+	margin-left:482px;
+	border:#000 solid 1px;
+	position:absolute;
+	z-index: 1;
+}
+.batch_intr_div .area2_div .rect4_div .bzx_span{
+	margin-top:8px;
+	margin-left:20px;
+}
+.batch_intr_div .area2_div .rect4_div img{
+	margin-top: 128px;
+	margin-left:-50px;
+}
+.batch_intr_div .area2_div .rect4_div .czmo_span{
+	margin-left: 70px;
+	position:absolute;
+}
+.batch_intr_div .area2_div .rect4_div .scsb_span{
+	margin-left: 303px;
+	position:absolute;
+}
+.batch_intr_div .area2_div .rect5_div{
+	width:175px;
+	height: 343px;
+	margin-top: -347px;
+	margin-left: 885px;
+	border:#000 solid 2px;
+}
+.batch_intr_div .area2_div .right_img{
+	margin-top: -563px;
+	margin-left: 1090px;
 	position: absolute;
 }
