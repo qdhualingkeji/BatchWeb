@@ -1,5 +1,6 @@
 .step1_div{
-	width:1200px;
+	width:1228px;
+	height:450px;
 	margin: 20px auto;
 	padding: 1px;
 }

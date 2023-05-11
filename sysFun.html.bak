@@ -43,9 +43,40 @@
 </div>
 <div class="step1_div">
 	<h3 class="title_h3">第二步：配方运行管理画面，可执行配方选择</h3>
-	<img class="left_img" src="images/202305101759.png"/>
+	<img class="left_img" src="images/202305101817.png"/>
 	<img class="pointer_img" src="images/202305101814.png"/>
-	<img class="right_img" src="images/202305101805.png"/>
+	<img class="right_img" src="images/202305101806.png"/>
+</div>
+<div class="step1_div">
+	<h3 class="title_h3">第三步：对于超限参数进行电子签名处理</h3>
+	<img class="left_img" src="images/202305101807.png"/>
+	<img class="pointer_img" src="images/202305101814.png"/>
+	<img class="right_img" src="images/202305101808.png"/>
+</div>
+<div class="step1_div">
+	<h3 class="title_h3">第四步：配方执行完毕后自动生成电子批记录</h3>
+	<img class="left_img" src="images/202305101809.png"/>
+	<img class="pointer_img" src="images/202305101814.png"/>
+	<img class="right_img" src="images/202305101810.png"/>
+</div>
+<div class="step1_div">
+	<h3 class="title_h3">第五步：配方执行完毕自动生成过程参数批次报表</h3>
+	<img class="left_img" src="images/202305101811.png"/>
+	<img class="pointer_img" src="images/202305101814.png"/>
+	<img class="right_img" src="images/202305101812.png"/>
+</div>
+
+<div class="foot_div">
+	<div class="content_div">
+		<div class="space_div"></div>
+		<div class="row_div">公司名称：青岛华凌科技有限公司</div>
+		<div class="row_div">咨询热线：0532-55588351&nbsp;&nbsp;15712773653（微信同号）</div>
+		<div class="row_div">邮箱地址：qdhualing@126.com</div>
+		<div class="row_div">公司地址：青岛市北中央商务区卓越世纪中心16F</div>
+	</div>
+	<div class="bah_div">
+        版权所有  2022  青岛华凌科技有限公司-Batch系统  &nbsp;<a href="https://beian.miit.gov.cn" target="_blank" style="color:#999;">鲁ICP备19062226号-4</a>
+	</div>
 </div>
 </body>
 </html>
