@@ -1,9 +1,17 @@
 .comp_intr_div{
-	width:1200px;height:167px;margin:0 auto;padding:1px;
+	width:1200px;
+	height:167px;
+	margin:0 auto;
+	padding:1px;
 }
 .comp_intr_div .title_h3,
 .batch_intr_div .title_h3{
-	color: #333;font-size: 35px;font-weight: bold;height: 40px;line-height: 40px;margin-left: 15px;
+	height: 40px;
+	line-height: 40px;
+	color: #333;
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
 }
 .comp_intr_div .content_p{
 	margin: 25px 0 0;
@@ -14,7 +22,6 @@
 
 .honor_div{
 	width:1200px;
-	height: 800px;
 	margin: 20px auto;
 	padding: 1px;
 }
@@ -44,18 +51,20 @@
 }
 
 .honor_div .jb1_img{
-	width: 285px;
-	margin-top: 265px;
+	width: 190px;
+	margin-top: 275px;
 }
 .honor_div .jb2_img{
-	margin-top: -356px;
-	margin-left: -67px;
+	margin-top: 352px;
+	margin-left: -221px;
+	width: 345px;
+	position: absolute;
 }
 
 .sb_list_div{
 	width:560px;
 	height: 120px;
-	margin-top:-200px;
+	margin-top:-140px;
 	/*
 	background:#0f0;
 	*/
@@ -87,7 +96,7 @@
 }
 
 .batch_intr_div{
-	width:1200px;
+	width:1260px;
 	margin: 20px auto;
 	padding: 1px;
 }
@@ -103,6 +112,10 @@
 .batch_intr_div .area1_div img{
 	margin-top:-540px;
 	float:right;
+}
+.batch_intr_div .area2_div,.batch_intr_div .area3_div,.batch_intr_div .area4_div{
+	width:100%;
+	margin-top:50px;
 }
 .batch_intr_div .area2_div .rect1_div{
 	width:163px;

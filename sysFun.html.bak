@@ -9,6 +9,7 @@
 <title>青岛华凌科技有限公司</title>
 <link rel="stylesheet" href="css/header.css">
 <link rel="stylesheet" href="css/sysFun.css">
+<link rel="stylesheet" href="css/foot.css">
 </head>
 <body>
 <div class="header_top">
@@ -30,7 +31,7 @@
 			<a class="active_a" href="sysFun">Batch系统功能</a>
 		</div>
 		<div class="item_div contact_us_item_div">
-			<a href="">联系我们</a>
+			<a href="contactUs.html">联系我们</a>
 		</div>
 	</div>
 </div>
