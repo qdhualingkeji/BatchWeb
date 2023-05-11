@@ -58,7 +58,7 @@ function addMapControl(){
 }
     
 //标注点数组
-var markerArr = [{title:"敦化路136号-卓越世纪中心",content:"地址：青岛市北中央商务区卓越世纪中心16F",point:"120.385500|36.096501",isOpen:1,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
+var markerArr = [{title:"龙城路31号-卓越世纪中心",content:"地址：青岛市北中央商务区卓越世纪中心19F",point:"120.385500|36.096501",isOpen:1,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
 	 ];
 //创建marker
 function addMarker(){
@@ -175,6 +175,19 @@ function createIcon(json){
 	<div class="row_div">传真：0532-55588352</div>
 	<div class="row_div">邮箱：qdhualing@126.com</div>
 	<div class="row_div">地址：山东省青岛市北中央商务区卓越世纪中心16F</div>
+</div>
+
+<div class="foot_div">
+	<div class="content_div">
+		<div class="space_div"></div>
+		<div class="row_div">公司名称：青岛华凌科技有限公司</div>
+		<div class="row_div">咨询热线：0532-55588351&nbsp;&nbsp;15712773653（微信同号）</div>
+		<div class="row_div">邮箱地址：qdhualing@126.com</div>
+		<div class="row_div">公司地址：青岛市北中央商务区卓越世纪中心16F</div>
+	</div>
+	<div class="bah_div">
+        版权所有  2022  青岛华凌科技有限公司-Batch系统  &nbsp;<a href="https://beian.miit.gov.cn" target="_blank" style="color:#999;">鲁ICP备19062226号-4</a>
+	</div>
 </div>
 </body>
 </html>
