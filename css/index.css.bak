@@ -113,7 +113,7 @@
 	margin-top:-540px;
 	float:right;
 }
-.batch_intr_div .area2_div,.batch_intr_div .area3_div{
+.batch_intr_div .area2_div,.batch_intr_div .area3_div,.batch_intr_div .area4_div{
 	width:100%;
 	margin-top:50px;
 }

@@ -89,10 +89,14 @@
 }
 
 .lxfs_div{
-	width:970px;margin:10px auto 30px;
+	width:970px;
+	margin:10px auto 30px;
 }
 .lxfs_div .title_div{
-	line-height:30px;color:#333;font-size:16px;font-weight:bold;
+	line-height:30px;
+	color:#333;
+	font-size:16px;
+	font-weight:bold;
 }
 .lxfs_div .row_div{
 	line-height:30px;
