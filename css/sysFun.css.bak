@@ -1,10 +1,40 @@
-.step1_div{
+.qq_dialog_a{
+	float:right;
+	margin-top:350px;
+	right: 2px;
+	position:fixed;
+	z-index:1;
+}
+.step1_div,
+.step3_div{
+	width:100%;
+}
+.step2_div,
+.step4_div{
+	width:100%;
+	background-color: #F2F2F2;
+}
+.step5_div{
 	width:1228px;
 	height:735px;
 	margin: 20px auto;
 	padding: 1px;
 }
-.step1_div .title_h3{
+.step1_div .content_div,
+.step2_div .content_div,
+.step3_div .content_div,
+.step4_div .content_div,
+.step5_div .content_div{
+	width:1228px;
+	height:735px;
+	margin: 20px auto;
+	padding: 1px;
+}
+.step1_div .title_h3,
+.step2_div .title_h3,
+.step3_div .title_h3,
+.step4_div .title_h3,
+.step5_div .title_h3{
 	height: 40px;
 	line-height: 40px;
 	margin-left: 15px;
@@ -12,17 +42,31 @@
 	font-size: 30px;
 	font-weight: bold;
 }
-.step1_div .left_img{
-	width: 800px;
-	height:450px;
+.step1_div .left_img,
+.step2_div .left_img,
+.step3_div .left_img,
+.step4_div .left_img,
+.step5_div .left_img{
+	width: 882px;
+	height:496px;
 	margin-top: 18px;
 }
-.step1_div .pointer_img{
+.step1_div .pointer_img,
+.step2_div .pointer_img,
+.step3_div .pointer_img,
+.step4_div .pointer_img,
+.step5_div .pointer_img{
 	margin-left: 20px;
 	margin-top: 214px;
 	position: absolute;
 }
-.step1_div .right_img{
-	margin-top: -68px;
+.step1_div .right_img,
+.step2_div .right_img,
+.step3_div .right_img,
+.step4_div .right_img,
+.step5_div .right_img{
+	width: 250px;
+	height: 496px;
+	margin-top: 18px;
 	float: right;
 }
