@@ -8,62 +8,31 @@
 <meta name="Description" content="">
 <title>青岛华凌科技有限公司</title>
 <link rel="stylesheet" href="css/header.css">
-<link rel="stylesheet" href="css/slide.css">
 <link rel="stylesheet" href="css/index.css">
 <link rel="stylesheet" href="css/foot.css">
 <script type="text/javascript" src="js/jquery-2.1.0.min.js"></script>
-<script type="text/javascript" src="js/jquery.SuperSlide.2.1.js"></script>
 </head>
 <body>
 <a class="qq_dialog_a" target="blank" href="tencent://message/?uin=449856087&site=http://www.hualingdw.com/&menu=yes">
 	<img border="0" src="http://wpa.qq.com/pa?p=1:449856087:6" alt="点击这里给我发消息">
 </a>
-<div class="header_top">
-	<div class="container">
-		<p class="hlkj_p">欢迎您来到青岛华凌科技有限公司！</p>
+<div class="header">
+	<div class="content">
+		<img class="logo_img" src="images/logon.png" alt="">
 		<div class="lxdh_div">
 			<span>联系电话：</span>
 			<h3>15712773653</h3>
 		</div>
-	</div>
-</div>
-<div class="header">
-	<img class="logo_img" src="images/logon.png" alt="">
-	<div class="nav_div">
-		<div class="item_div index_item_div">
-			<a class="active_a" href="index.html">首页</a>
-		</div>
-		<div class="item_div sys_fun_item_div">
-			<a href="sysFun.html">Batch系统功能</a>
-		</div>
-		<div class="item_div contact_us_item_div">
-			<a href="contactUs.html">联系我们</a>
-		</div>
-	</div>
-</div>
-
-<!--banner-->
-<div class="banner">
-    <div id="slideBox" class="slideBox">
-		<div class="bd">
-			<ul>
-				<li>
-					<a href="" style=" background:url(images/201712161043449020.jpg) no-repeat center;"></a>
-				</li>
-				<li>
-					<a href="" style=" background:url(images/201712161044457795.jpg) no-repeat center;"></a>
-				</li>
-				<li>
-					<a href="" style=" background:url(images/201712161044078374.jpg) no-repeat center;"></a>
-				</li>
-			</ul>
-		</div>
-		<div class="hd">
-			<ul> 
-				<li></li>
-				<li></li>
-				<li></li> 
-            </ul>
+		<div class="nav_div">
+			<div class="item_div index_item_div">
+				<a class="active_a" href="index.html">首页</a>
+			</div>
+			<div class="item_div sys_fun_item_div">
+				<a href="sysFun.html">Batch系统功能</a>
+			</div>
+			<div class="item_div contact_us_item_div">
+				<a href="contactUs.html">联系我们</a>
+			</div>
 		</div>
 	</div>
 </div>
@@ -103,7 +72,9 @@
 </div>
 
 <div class="batch_intr_div">
-	<h3 class="title_h3">BATCH系统简介</h3>
+	<div class="title_div">
+		<h3 class="title_h3">BATCH系统简介</h3>
+	</div>
 	<div class="area1_div">
 		<div class="content_div">
 			<p>Batch系统允许在处理过程中使用同一套控制和信息系统，从而提升产能和产品质量，节约能源和原材料，并减少流程偏差和人员介入。</p>
@@ -115,7 +86,6 @@
 			<p>• 收集电子批次数据，生成改善合规性和处理过程的详细报告。</p>
 			<p>• 模拟完整批处理</p>
 		</div>
-		<img src="images/202305101327.png"/>
 	</div>
 	<div class="area2_div">
 		<div class="rect1_div">
@@ -182,7 +152,6 @@
 			<p class="p2">• 物料跟踪</p>
 			<p class="p2">• 报表</p>
 		</div>
-		<img src="images/202305101653.png"/>
 	</div>
 	<div class="area4_div">
 		<div class="content_div">
@@ -198,7 +167,6 @@
 			其中包括代表签名及其相关数据（如签署等级、注释、安全要求、数据和时间戳）的可配置电子签名模板。最多支持需要使用三个签名来验证运行时的批次事件。所有签名均存储于事件日志中且不可更改，完全支持 21 CFR 第 11 部分的合规性要求。
 			</p>
 		</div>
-		<img src="images/202305101705.png"/>
 	</div>
 </div>
 
@@ -208,15 +176,11 @@
 		<div class="row_div">公司名称：青岛华凌科技有限公司</div>
 		<div class="row_div">咨询热线：0532-55588351&nbsp;&nbsp;15712773653（微信同号）</div>
 		<div class="row_div">邮箱地址：qdhualing@126.com</div>
-		<div class="row_div">公司地址：青岛市北中央商务区卓越世纪中心16F</div>
+		<div class="row_div">公司地址：青岛市北中央商务区卓越世纪中心19F</div>
 	</div>
 	<div class="bah_div">
         版权所有  2022  青岛华凌科技有限公司-Batch系统  &nbsp;<a href="https://beian.miit.gov.cn" target="_blank" style="color:#999;">鲁ICP备15031378号-1</a>
 	</div>
 </div>
-<script>
-//banner
-jQuery(".banner .slideBox").slide({mainCell:".bd ul",autoPlay:true});
-</script>
 </body>
 </html>

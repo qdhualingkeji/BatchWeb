@@ -2,35 +2,17 @@ body{
 	margin:0px;
 	background-color: #fff;
 }
-.header_top{
-	width: 100%;
-	height: 40px;
-	background: #fff;
-	border-bottom: 1px solid #d2d2d2;
-}
-.header_top .container{
-	width: 1200px;
-	height:40px;
-	margin: 0px auto;
-}
-.header_top .container .hlkj_p{
-	height: 100%;
-	padding: 0px 12px;
-	float: left;
-	color: #666666;
-	font-size: 12px;
-}
-.header_top .container .lxdh_div{
-	height: 40px;
-	line-height: 40px;
+.header .lxdh_div{
+	height: 75px;
+	line-height: 75px;
 	margin-right: 8px;
 	color: #333;
 	font-size: 12px;
 	float: right;
 }
-.header_top .container .lxdh_div h3{
-	height: 40px;
-	line-height: 40px;
+.header .lxdh_div h3{
+	height: 75px;
+	line-height: 75px;
 	margin: 0;
 	color: #04be89;
 	font-size: 24px;
@@ -38,18 +20,23 @@ body{
 	float: right;
 }
 .header{
+	width: 100%;
+	border-bottom: 1px solid #d2d2d2;
+}
+.header .content_div{
 	width: 1500px;
 	height: 75px;
 	margin: 0px auto;
 }
-.header .logo_img{
-	margin-left: -268px;
+.header .content_div .logo_img{
+	margin-left: 8px;
 }
 .nav_div{
 	width:400px;
 	height: 75px;
 	line-height: 75px;
 	float:right;
+	margin-right: 350px;
 }
 .nav_div .item_div{
 	height: 75px;
