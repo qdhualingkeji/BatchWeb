@@ -225,6 +225,16 @@
 	margin-left:255px;
 	position:absolute;
 }
+.batch_intr_div .area2_div .rect2_div .ste_img{
+	margin-top: 186px;
+	margin-left: 194px;
+	position:absolute;
+}
+.batch_intr_div .area2_div .rect2_div .fts_img{
+	margin-top: 310px;
+	margin-left: 45px;
+	position:absolute;
+}
 .batch_intr_div .area2_div .rect2_div .sctj_border_div{
 	width:115px;
 	height:34px;
@@ -321,7 +331,7 @@
 	margin-left:20px;
 }
 .batch_intr_div .area2_div .rect4_div img{
-	margin-top: 128px;
+	margin-top: -48px;
 	margin-left:-50px;
 }
 .batch_intr_div .area2_div .rect4_div .czmo_span{
@@ -331,6 +341,19 @@
 .batch_intr_div .area2_div .rect4_div .scsb_span{
 	margin-left: 303px;
 	position:absolute;
+}
+.batch_intr_div .area2_div .rect4_div .ljx1_img{
+	margin-top: -128px;
+	margin-left: 100px;
+	position:absolute;
+}
+.batch_intr_div .area2_div .rect4_div .ljx2_img{
+	margin-top: -128px;
+	margin-left: 330px;
+	position:absolute;
+}
+.batch_intr_div .area2_div .rect4_div .ljx3_img{
+	position:absolute;margin-top: -128px;margin-left: 535px;
 }
 .batch_intr_div .area2_div .rect5_div{
 	width:175px;

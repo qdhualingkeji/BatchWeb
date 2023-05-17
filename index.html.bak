@@ -17,7 +17,7 @@
 	<img border="0" src="http://wpa.qq.com/pa?p=1:449856087:6" alt="点击这里给我发消息">
 </a>
 <div class="header">
-	<div class="content">
+	<div class="content_div">
 		<img class="logo_img" src="images/logon.png" alt="">
 		<div class="lxdh_div">
 			<span>联系电话：</span>
@@ -110,6 +110,8 @@
 			</div>
 			<img class="pcfx_img" src="images/202305101347.png"/>
 			<img class="etn_img" src="images/202305101510.png"/>
+			<img class="ste_img" src="images/202305101813.png"/>
+			<img class="fts_img" src="images/202305101510.png"/>
 			<div class="sctj_border_div">
 				<span class="text_span sctj_span">9.生产统计</span>
 			</div>
@@ -136,6 +138,9 @@
 			<img src="images/202305101557.png"/>
 			<span class="czmo_span">称重模块</span>
 			<span class="scsb_span">生产设备</span>
+			<img class="ljx1_img" src="images/202305101815.png"/>
+			<img class="ljx2_img" src="images/202305101815.png"/>
+			<img class="ljx3_img" src="images/202305101815.png" style="position:absolute;margin-top: -128px;margin-left: 535px;"/>
 		</div>
 		<div class="rect5_div">
 		</div>
